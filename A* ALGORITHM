@@ -1,4 +1,4 @@
-#A* pathfinding algorithm implemented by Bahram Esmailian
+#A* pathfinding algorithm implemented and written by Bahram Esmailian
 
 import numpy as np
 
