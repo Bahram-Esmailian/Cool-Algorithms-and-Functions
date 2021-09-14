@@ -1,7 +1,7 @@
 #Fast Prime Generator created and written by Bahram Esmailian
 #this algorithm implements the Seive of Eratosthenes is one of the fastest algorithms for generating prime numbers
 
-#set n to the number of primes you want to generate 
+#let n be the upper limit of primes generated
 n = 100000
 numbers = []
 
